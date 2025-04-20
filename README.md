@@ -19,14 +19,4 @@ This project demonstrates API automation using **Rest Assured** in a **Maven** p
 - TestNG (optional, if used for test structure)
 - reqres.in (as the test API)
 
-  ## Folder Structure
-  api-automation-restassured/
-├── src/
-│   └── test/
-│       └── java/
-│           └── your/tests/
-│               ├── GetTest.java
-│               ├── PostTest.java
-│               ├── PutTest.java
-│               └── DeleteTest.java
-└── pom.xml
+ 
